@@ -4,7 +4,7 @@ This is a file-based key-value data store that supports the bsaic CRD(create, re
 
 # Installation
 
-Just include [keyvaluedatastore.py](keyvaluedatastore.py) in your program directory and import it in your program.
+Just include [keyValueDataStore.py](keyValueDataStore.py) in your program directory and import it in your program.
 
 # How to use
 
